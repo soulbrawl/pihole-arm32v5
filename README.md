@@ -38,4 +38,6 @@ If you're using static IP addresses, be sure to set the Pi-hole container's IP a
 
 If you're using DHCP, go to IP -> DHCP Server -> Networks and set the DNS server to the Pi-hole container's IP.
 
+# Docker Hub
+https://hub.docker.com/r/holynash/pihole-armv5
 Enjoy.
